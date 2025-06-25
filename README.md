@@ -12,6 +12,6 @@ install | update
 
 ```
 "require": {
-    "liventin/base.module.migration.userfields.provider.string": "^1.0.0"
+    "liventin/base.module.migration.userfields.provider.iblock.element": "@stable"
 }
 ```
